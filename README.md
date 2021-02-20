@@ -1,5 +1,5 @@
 <h2>Hi, I'm Yidaotus!</h2>
-<img align='right' src="https://media.giphy.com/media/h5NmMolgdFcVW/giphy.gif" height="230" />
+<img align='right' src="https://media.giphy.com/media/h5NmMolgdFcVW/giphy.gif" height="160" />
 <p><em>Full Stack developer, rust fan and musician</em></p>
 
 <h4> Latest Blog Posts: </h4>
